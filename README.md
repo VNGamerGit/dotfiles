@@ -6,17 +6,14 @@
 - neofetch picture
 - Music (and VLC skin)
 ## Screenshot
-## Showcase screenshot
-![Looking lovely there](https://i.imgur.com/Y0e4z9Q.png)
+### Showcase screenshot
+![Looking lovely there](https://i.imgur.com/cm0NAbw.png)
 
-## Notes
-![Bismuth settings for interested people](https://i.imgur.com/XDvJoZ1.png)
-That above is my Bismuth settings, and down here is:
-![Kvantum settings for transparency](https://i.imgur.com/GTUixjf.png)
-Note that the "Reduce opacity" value I setted in the screenshot above are different from the showcase one (The showcase's 53%)
+# Notes
+![Kvantum settings for transparency](https://i.imgur.com/ib4zyil.png)
 
 # Details (again)
-* **Application Themes:** Breeze Light \[Plasma\] | [Orchis-purple-dark](https://www.gnome-look.org/p/1357889) \[GTK2/3/4\] | [KvantumGently-kv](https://store.kde.org/p/1365317) \[Kvantum\]
+* **Application Themes:** Breeze Light \[Plasma\] | [Ultimate-Dark-(Cpt)-Blue](https://www.gnome-look.org/p/1246387) \[GTK2/3/4\] | [Fluent-round Dark](https://www.pling.com/p/1499836) \[Kvantum\]
 * **Color Scheme:** [Orchis (non-Terminal)](https://store.kde.org/p/1458910/) | [Custom pywal color scheme (Terminal)](https://github.com/VNGamerGit/dotfiles/blob/other/colors-konsole.colorscheme)
 * **Cursor:** [Capitaine Cursors](https://store.kde.org/p/1148692/)
 * **Login Screen:** [Nordic](https://store.kde.org/p/1366843/)
