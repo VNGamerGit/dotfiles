@@ -27,5 +27,5 @@
 Notes:
 
 * My wallpaper is taken from [Wallhaven](https://wallhaven.cc/w/dgd1yl)
-* You can find the icons for the OnzeMenu 11 and the original image of the pywal color scheme in here: [dotfiles](https://github.com/VNGamerGit/dotfiles)
+* You can find the icons for the OnzeMenu 11 and the original image of the pywal color scheme in here: [dotfiles](https://github.com/VNGamerGit/dotfiles/tree/gentoo)
 * The characters' names are [Remilia Scarlet](https://en.touhouwiki.net/wiki/Remilia_Scarlet), the owner of the Scarlet Mansion; [Sakuya Izayoi](https://en.touhouwiki.net/wiki/Sakuya_Izayoi), who is her maid, and [Flandre Scarlet](https://en.touhouwiki.net/wiki/Flandre_Scarlet) (a.k.a her little sister) (if you're interested in Touhou, [here's a beginner guide if you're new :)](https://www.youtube.com/watch?v=tjAgP-Gdn0c))
